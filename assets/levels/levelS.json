@@ -1,0 +1,67 @@
+{
+    "ballStart":{"x": 200, "y": 350},
+    "platformData": [
+        {
+            "y":200,
+            "level": [{"x":150},{"x":250},{"x":350}],
+            "nplatform": 1,
+            "rotation": 180
+        },
+        {
+            "y":200,
+            "level": [{"x":50}],
+            "nplatform": 1,
+            "rotation": 90
+
+        },
+        {
+            "y":300,
+            "level": [{"x":50}],
+            "nplatform": 1,
+            "rotation": 90
+            
+        },
+        {
+            "y":400,
+            "level": [{"x":50}],
+            "nplatform": 1,
+            "rotation": 90
+            
+        },
+        {
+            "y":300,
+            "level": [{"x":350}],
+            "nplatform": 1,
+            "rotation": -90
+
+        },
+        {
+            "y":400,
+            "level": [{"x":350}],
+            "nplatform": 1,
+            "rotation": -90
+            
+        },
+        {
+            "y":500,
+            "level": [{"x":350}],
+            "nplatform": 1,
+            "rotation": -90
+            
+        },
+        {
+            "y":500,
+            "level": [{"x":100},{"x":200},{"x":300}],
+            "nplatform": 2,
+            "rotation": 0
+        }
+    ],
+    "powerData": [
+        {
+            "y": 1950, "x": -220
+        },
+        {
+            "y": 4050, "x": 420
+        }
+    ]
+}
